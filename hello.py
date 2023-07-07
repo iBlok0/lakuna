@@ -8,4 +8,4 @@ for i in range(1,10):
 new_phrase = "ваша видит эту фразу."
 print(new_phrase)
 
-<<<<<<
+Code Acode
