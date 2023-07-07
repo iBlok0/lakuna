@@ -9,7 +9,7 @@ new_phrase = "ваша видит эту фразу."
 print(new_phrase)
 
 Code Acode
-
+  
 New branch froms smartphone
 
 Почему это так не качественно работает? 
